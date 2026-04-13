@@ -1,7 +1,7 @@
 # Native vs. IVT RNA Coverage Analysis
 
 Repository for reproducing all figures from the paper:
-**[paper title]**
+**Transcriptome-wide generation of unmodified RNA controls for nanopore epitranscriptome profiling via T7-coupled strand switching**
 
 ---
 
